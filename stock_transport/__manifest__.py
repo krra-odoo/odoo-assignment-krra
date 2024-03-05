@@ -5,6 +5,7 @@
     'application': True,
     'installable': True,
     'data': [
+        'security/ir.model.access.csv',
         'views/inherit_fleet_vehicle_category_view.xml',
         'views/inherit_stock_picking_batch_views.xml',
         'views/inherit_stock_picking_view.xml',
